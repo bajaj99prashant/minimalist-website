@@ -1,0 +1,182 @@
+body{
+    
+    background:#F4F4F4;
+    margin: 0;
+
+    background-image: url("Wooden-background-texture-pattern-images-for-website-HD-template-PSD-free-download.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.link-title{
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.container{
+    width: 780px;
+    margin: 0 auto;
+    background: #FFF;
+/*    background-image: url("images.jpg");*/
+    box-shadow: 0px 4px 13px 10px;
+   
+}
+
+.header{
+    padding: 45px 0 20px 40px;
+/*    border: 2px solid black;*/
+    background: #CACFD2;
+
+    background-image: url("texture-1496033_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+.header a{
+    color: #ffffff;
+}
+
+.menu{
+    background: #3B7687;
+    padding: 6px 0 6px 40px;
+}
+
+.menu a {
+    color:#c5d6db;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Arial Narrow","Myriad Pro";
+}
+
+.menu a:hover{
+    color:#FFF;
+}
+
+aside{
+    float:left;
+    width:120px;
+    padding: 30px 0 0 40px;
+/*    background : #CACFD2; */
+}
+
+h1{
+    margin: 0px;
+    color:#869843;
+    font-size: 24px;
+    font-family:  "Arial Narrow","Myriad Pro";
+    font-weight: normal;
+}
+
+h2{
+    color: #3B7687;
+    font-size: 15px;
+    margin: 20px 0 5px 0;
+}
+
+.main{
+    margin: 0 0 0 180px;
+    padding: 35px 40px 30px 0px;
+    color: #1B2631;
+    font-family: "Georgia" ;
+    font-size: 13px;
+    line-height: 18px;
+    text-emphasis: justify;
+}
+
+.main a:hover{
+    color: #1B2631;
+}
+
+#home-image img{
+    width: 100%;
+}
+
+footer{
+    padding: 6px 40px 6px 40px;
+    background: #CACFD2;
+    font-family: "Lucida Sans Unicode";
+    color:  #1B2631;
+    font-size: 11px;
+    text-decoration: right;
+}
+
+footer a{
+    text-decoration: none;
+    color: #262626;
+    font-weight: bold;
+}
+
+.separator{
+    color: #000000;
+    font-size: 11px;
+}
+
+/*about page styles*/
+
+#about-page #home-image img{
+    width: 60%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+#about-page #profile-info{
+    float: right;
+    width: 20%;
+    margin: 5px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+#about-page .description{
+    clear: both;
+}
+
+/*contact page styling*/
+
+#contact #form{
+    width: 400px;
+    margin: 0 auto;
+/*    border: 2px solid #34495E;*/
+    background-image: url("backgrounds-texture-background-graphics-1-5979c81005b93.png");
+    padding: 5px 5px 5px 20px;
+    font-family: "Arial Narrow","Myriad Pro";
+    box-shadow: 2px 4px 13px 5px;
+    border-radius: 5px;
+/*
+    outline-style: solid;
+    outline-color: #7b9591;
+*/
+}
+
+#contact #form p{
+    color: #ffffff;
+}
+
+#contact #heading{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 36px;
+    color: #34495E;
+    font-weight: bold;
+    
+}
+
+#contact #form input{
+    width: 95%;
+    border-radius: 5px;
+    height: 20px;
+    background: #D6D6D6;
+}
+
+#contact #form #message{
+     width: 95%;
+    border-radius: 5px;
+    background: #D6D6D6;
+}
+
+#contact #form #submit{
+    width: 97%;
+    background-color: #7b9591;
+    height: 30px;
+}
